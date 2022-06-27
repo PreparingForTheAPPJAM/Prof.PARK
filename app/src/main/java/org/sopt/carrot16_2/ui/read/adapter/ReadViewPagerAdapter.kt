@@ -46,4 +46,6 @@ class ReadViewPagerAdapter :
                 oldItem.equals(newItem)
         }
     }
+
+    //diffUtil 사용
 }
